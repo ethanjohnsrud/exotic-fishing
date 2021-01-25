@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/exotic-fishing/static/css/main.0e9677f4.chunk.css",
+    "main.js": "/exotic-fishing/static/js/main.78c950c2.chunk.js",
+    "main.js.map": "/exotic-fishing/static/js/main.78c950c2.chunk.js.map",
+    "runtime-main.js": "/exotic-fishing/static/js/runtime-main.55208cac.js",
+    "runtime-main.js.map": "/exotic-fishing/static/js/runtime-main.55208cac.js.map",
+    "static/js/2.6d3e95be.chunk.js": "/exotic-fishing/static/js/2.6d3e95be.chunk.js",
+    "static/js/2.6d3e95be.chunk.js.map": "/exotic-fishing/static/js/2.6d3e95be.chunk.js.map",
+    "index.html": "/exotic-fishing/index.html",
+    "precache-manifest.a937a64ec5a0172f727841d2cb1cd48e.js": "/exotic-fishing/precache-manifest.a937a64ec5a0172f727841d2cb1cd48e.js",
+    "service-worker.js": "/exotic-fishing/service-worker.js",
+    "static/css/main.0e9677f4.chunk.css.map": "/exotic-fishing/static/css/main.0e9677f4.chunk.css.map",
+    "static/js/2.6d3e95be.chunk.js.LICENSE.txt": "/exotic-fishing/static/js/2.6d3e95be.chunk.js.LICENSE.txt",
+    "static/media/Travel.png": "/exotic-fishing/static/media/Travel.4b412776.png",
+    "static/media/equiptment.png": "/exotic-fishing/static/media/equiptment.62749f7f.png",
+    "static/media/footer.png": "/exotic-fishing/static/media/footer.7c578e64.png",
+    "static/media/frogFish.png": "/exotic-fishing/static/media/frogFish.4f4f7e27.png",
+    "static/media/girl.png": "/exotic-fishing/static/media/girl.d4ab33d4.png",
+    "static/media/header.png": "/exotic-fishing/static/media/header.aeb616b2.png",
+    "static/media/lodging.png": "/exotic-fishing/static/media/lodging.f534e3aa.png",
+    "static/media/man.png": "/exotic-fishing/static/media/man.6cb60ea5.png",
+    "static/media/octalizard.png": "/exotic-fishing/static/media/octalizard.56d0a530.png",
+    "static/media/seaCat.png": "/exotic-fishing/static/media/seaCat.4956bdc7.png",
+    "static/media/waders.png": "/exotic-fishing/static/media/waders.6e444304.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55208cac.js",
+    "static/js/2.6d3e95be.chunk.js",
+    "static/css/main.0e9677f4.chunk.css",
+    "static/js/main.78c950c2.chunk.js"
+  ]
+}
