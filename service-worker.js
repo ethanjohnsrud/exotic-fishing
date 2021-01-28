@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/exotic-fishing/precache-manifest.a937a64ec5a0172f727841d2cb1cd48e.js"
+  "/exotic-fishing/precache-manifest.ebbffb33210428ff1631bb3f2f65cd30.js"
 );
 
 self.addEventListener('message', (event) => {

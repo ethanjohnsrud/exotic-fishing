@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f690516d9177deeb03881a1937b668c6",
+    "revision": "7affb412040d5e34d87729bc6e9dafc2",
     "url": "/exotic-fishing/index.html"
   },
   {
